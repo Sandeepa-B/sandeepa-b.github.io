@@ -311,3 +311,4 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-slate
+minimal_mistakes_skin: "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
