@@ -18,9 +18,11 @@ Education
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * University of Ottawa
+  * Duties included: 
+    * Utilize YOLOv3 on face detection,pedestrian detection and car detection
+    * Design a two-branch scale-aware YOlO model for pedestrian detection
+  * Supervisor: Professor Robert
 
 * Fall 2015: Research Assistant
   * Github University
