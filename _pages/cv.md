@@ -27,4 +27,10 @@ Work experience
 * Spring 2018: Deep learning Intern
   * Arcsoft
   * Duties included: Single image super resolution
+  
+Award Selected
+=======
+* 12th place (Defence) on IJCAI-19 Alibaba Adversrial Vision Challenge
+* 3nd place on Alibaba AI Security Program
+* 2018 MCM/ICM Meritorious Winner Prize
 
