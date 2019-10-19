@@ -14,6 +14,8 @@ I am a first year Master student of University of California, San Diego. I get m
 * Text-to-image Generation 
 * General application of Computer Vision(Object Detection, Classification)
 
+[Curriculum Vitae](https://github.com/Adamdad/Adamdad.github.io/blob/master/files/Xingyi_Yang_2019_10_18.pdf)    
+
 Education
 ======
 * B.S. in Nanjing, Southeast University University, 2019
