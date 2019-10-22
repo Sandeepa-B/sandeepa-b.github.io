@@ -24,16 +24,17 @@ Education
 
 Work experience
 ======
+* Autumn 2019: Deep Learning Intern
+  * Kneron Inc.
 * Summer 2018: Research Assistant
   * University of Ottawa
-  * Duties included: 
     * Utilize YOLOv3 on face detection,pedestrian detection and car detection
     * Design a two-branch scale-aware YOlO model for pedestrian detection
   * Supervisor: Professor Robert
 
-* Spring 2018: Deep learning Intern
+* Spring 2018: Deep Learning Intern
   * Arcsoft
-  * Duties included: Single image super resolution
+    * Single-image super-resolution based on semantic segmentation map
   
 Award Selected
 =======
