@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Master student of University of California, San Diego. I get my Bacholar degree in Computer Sience from Southeast University, China in 2019. My research interest include 
+I am a first year Master student of University of California, San Diego. I am now working closely with (Prof.Pengtao Xie)[http://www.cs.cmu.edu/~pengtaox/]. I get my Bacholar degree in Computer Sience from Southeast University, China in 2019. My research interest include 
 
 * The Robustness of Neural Network
 * Text-to-image Generation 
@@ -27,10 +27,10 @@ Work experience
 * Autumn 2019: Deep Learning Intern
   * Kneron Inc.
 * Summer 2018: Research Assistant
-  * University of Ottawa
+  * University of Ottawa, VIVA Lab
     * Utilize YOLOv3 on face detection,pedestrian detection and car detection
     * Design a two-branch scale-aware YOlO model for pedestrian detection
-  * Supervisor: Professor Robert
+  * Supervisor: Professor [Robert Laganière](http://www.site.uottawa.ca/~laganier/)
 
 * Spring 2018: Deep Learning Intern
   * Arcsoft
