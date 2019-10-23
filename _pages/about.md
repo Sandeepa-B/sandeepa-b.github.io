@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Master student of University of California, San Diego. I am now working closely with [Prof.Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/). I get my Bacholar degree in Computer Sience from Southeast University, China in 2019. My research interest include 
+I am a first year Master student of University of California, San Diego. I am now working closely with [Prof.Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/). I get my Bachelor degree in Computer Science from Southeast University, China in 2019. My research interest include 
 
 * The Robustness of Neural Network
 * Text-to-image Generation 
