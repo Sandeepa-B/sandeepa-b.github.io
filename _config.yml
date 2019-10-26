@@ -312,4 +312,5 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: benbalter/retlab
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
