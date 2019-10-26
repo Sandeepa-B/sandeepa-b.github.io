@@ -136,7 +136,7 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets`
+  - assets
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -267,6 +267,9 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -312,5 +315,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
