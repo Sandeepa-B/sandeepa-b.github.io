@@ -310,8 +310,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-plugins:
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
+@import "minimal-mistakes/skins/default"; // skin
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
