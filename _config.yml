@@ -311,5 +311,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: jekyll-theme-midnight
