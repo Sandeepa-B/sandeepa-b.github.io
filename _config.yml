@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam X.Yang"
+title                    : "Xingyi Yang"
 title_separator          : "-"
-name                     : &name "Xingyi Yang"
+name                     : &name "Master of UC San Diego"
 description              : &description "personal description"
 url                      : https://Adamdad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
