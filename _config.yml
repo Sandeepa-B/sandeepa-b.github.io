@@ -316,3 +316,5 @@ compress_html:
     envs: development
 
 
+
+theme: jekyll-theme-midnight
