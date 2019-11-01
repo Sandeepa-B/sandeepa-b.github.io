@@ -26,6 +26,7 @@ Work experience
 ======
 * Autumn 2019: Deep Learning Intern
   * Kneron Inc.
+    * Post-training 8-bit quantization of neural ntwork
 * Summer 2018: Research Assistant
   * University of Ottawa, VIVA Lab
     * Utilize YOLOv3 on face detection,pedestrian detection and car detection
@@ -33,7 +34,7 @@ Work experience
   * Supervisor: Professor [Robert Laganière](http://www.site.uottawa.ca/~laganier/)
 
 * Spring 2018: Deep Learning Intern
-  * Arcsoft
+  * Arcsoft Inc.
     * Single-image super-resolution based on semantic segmentation map
   
 Award Selected
