@@ -26,20 +26,18 @@ Education
 
 Work experience
 ======
-* Autumn 2019: Deep Learning Intern
-  * Kneron Inc.
-  * Supervisor: [Bike Xie](https://www.linkedin.com/in/bike-xie-82069b18/)
-    * Post-training 8-bit quantization of neural network
+* <img src="..\images\kneron.jpg" alt="drawing" style="width:50px;" align="middle" border="3"/> Kneron Inc. *Deep Learning Intern* | Autumn 2019
 
-* Summer 2018: Research Assistant
-  * University of Ottawa, VIVA Lab
+  * Supervisor: [Bike Xie](https://www.linkedin.com/in/bike-xie-82069b18/)
+  * Post-training 8-bit quantization of neural network
+
+* <img src="..\images\viva.png" alt="drawing" style="width:50px;" align="middle" border="3"/> University of Ottawa, VIVA Lab *Research Assistant* | Summer 2018
   * Supervisor: [Prof.Robert Laganière](http://www.site.uottawa.ca/~laganier/)
-    * Utilize YOLOv3 on face detection,pedestrian detection and car detection
-    * Design a two-branch scale-aware YOlO model for pedestrian detection
+  * Utilize YOLOv3 on face detection,pedestrian detection and car detection
+  * Design a two-branch scale-aware YOlO model for pedestrian detection
   
 
-* Spring 2018: Deep Learning Intern
-  * Arcsoft Inc.
+* <img src="..\images\arcsoft.svg" alt="drawing" style="width:50px;" align="middle" border="3"/>Arcsoft Inc. *Deep Learning Intern* | Spring 2018 
     * Single-image super-resolution based on semantic segmentation map
   
 Award Selected
