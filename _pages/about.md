@@ -19,8 +19,8 @@ I am a first year Master student of University of California, San Diego. I am no
 Education
 ======
 * M.S. in California, University of California San Deigo, 2021(expected)
-* Visiting Student, in Ottawa, University of Ottawa
 * B.S. in Nanjing, Southeast University University, 2019
+* Visiting Student, in Ottawa, University of Ottawa, 2018
 
 Work experience
 ======
