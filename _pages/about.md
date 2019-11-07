@@ -8,29 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Master student of University of California, San Diego. I am now working closely with [Prof.Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/). I get my Bachelor degree in Computer Science from Southeast University, China in 2019. My research interest include 
+I am a first year Master student of University of California, San Diego. I am now working closely with [Prof.Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/). I got my Bachelor degree in Computer Science and Engineering from Southeast University, China in 2019. I used to be a visiting student of University of Ottawa, supervised by [Prof.Robert Laganière](http://www.site.uottawa.ca/~laganier/). My research interest includes
 
 * The Robustness of Neural Network
-* Text-to-image Generation 
+* Text-to-image Generation
 * General application of Computer Vision(Object Detection, Classification)
 
-[Curriculum Vitae](http://adamdad.github.io/files/Xingyi Yang 2019_10_18.pdf)    
+[Curriculum Vitae](http://adamdad.github.io/files/Xingyi Yang 2019_10_18.pdf)
 
 Education
 ======
 * M.S. in California, University of California San Deigo, 2021(expected)
 * B.S. in Nanjing, Southeast University University, 2019
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
 * Autumn 2019: Deep Learning Intern
   * Kneron Inc.
+  * Supervisor: [Bike Xie](https://www.linkedin.com/in/bike-xie-82069b18/)
+  
 * Summer 2018: Research Assistant
   * University of Ottawa, VIVA Lab
     * Utilize YOLOv3 on face detection,pedestrian detection and car detection
     * Design a two-branch scale-aware YOlO model for pedestrian detection
-  * Supervisor: Professor [Robert Laganière](http://www.site.uottawa.ca/~laganier/)
+  * Supervisor: [Prof.Robert Laganière](http://www.site.uottawa.ca/~laganier/)
 
 * Spring 2018: Deep Learning Intern
   * Arcsoft
