@@ -19,23 +19,23 @@ I am a first year Master student of University of California, San Diego. I am no
 Education
 ======
 * M.S. in California, University of California San Deigo, 2021(expected)
+* Visiting Student, in Ottawa, University of Ottawa
 * B.S. in Nanjing, Southeast University University, 2019
 
 Work experience
 ======
 * Autumn 2019: Deep Learning Intern
   * Kneron Inc.
-<<<<<<< HEAD
   * Supervisor: [Bike Xie](https://www.linkedin.com/in/bike-xie-82069b18/)
+    * Post-training 8-bit quantization of neural network
   
-=======
-    * Post-training 8-bit quantization of neural ntwork
 >>>>>>> f6f40508c0f566201bf44f16778cd9118b3f2713
 * Summer 2018: Research Assistant
   * University of Ottawa, VIVA Lab
+  * Supervisor: [Prof.Robert Laganière](http://www.site.uottawa.ca/~laganier/)
     * Utilize YOLOv3 on face detection,pedestrian detection and car detection
     * Design a two-branch scale-aware YOlO model for pedestrian detection
-  * Supervisor: [Prof.Robert Laganière](http://www.site.uottawa.ca/~laganier/)
+  
 
 * Spring 2018: Deep Learning Intern
   * Arcsoft Inc.
