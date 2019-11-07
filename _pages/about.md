@@ -28,8 +28,7 @@ Work experience
   * Kneron Inc.
   * Supervisor: [Bike Xie](https://www.linkedin.com/in/bike-xie-82069b18/)
     * Post-training 8-bit quantization of neural network
-  
->>>>>>> f6f40508c0f566201bf44f16778cd9118b3f2713
+
 * Summer 2018: Research Assistant
   * University of Ottawa, VIVA Lab
   * Supervisor: [Prof.Robert Laganière](http://www.site.uottawa.ca/~laganier/)
