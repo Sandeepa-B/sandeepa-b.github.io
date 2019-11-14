@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinyi Yang"
+title: "Xingyi Yang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
