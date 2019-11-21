@@ -309,39 +309,31 @@ body:hover .visually-hidden button {
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
-
-  // &:before {
-  //   top: (-2 * $navicon-height);
-  // }
-
-  // &:after {
-  //   bottom: (-2 * $navicon-height);
-  // }
 }
 
-.close .navicon {
-  /* hide the middle line*/
-  background: transparent;
+// .close .navicon {
+//   /* hide the middle line*/
+//   background: transparent;
 
-  /* overlay the lines by setting both their top values to 0*/
-  &:before, &:after{
-    -webkit-transform-origin: 50% 50%;
-        -ms-transform-origin: 50% 50%;
-            transform-origin: 50% 50%;
-    top: 0;
-    width: $navicon-width;
-  }
+//   /* overlay the lines by setting both their top values to 0*/
+//   &:before, &:after{
+//     -webkit-transform-origin: 50% 50%;
+//         -ms-transform-origin: 50% 50%;
+//             transform-origin: 50% 50%;
+//     top: 0;
+//     width: $navicon-width;
+//   }
 
-  /* rotate the lines to form the x shape*/
-  &:before{
-    -webkit-transform: rotate3d(0,0,1,45deg);
-            transform: rotate3d(0,0,1,45deg);
-  }
-  &:after{
-    -webkit-transform: rotate3d(0,0,1,-45deg);
-            transform: rotate3d(0,0,1,-45deg);
-  }
-}
+//   /* rotate the lines to form the x shape*/
+//   &:before{
+//     -webkit-transform: rotate3d(0,0,1,45deg);
+//             transform: rotate3d(0,0,1,45deg);
+//   }
+//   &:after{
+//     -webkit-transform: rotate3d(0,0,1,-45deg);
+//             transform: rotate3d(0,0,1,-45deg);
+//   }
+// }
 
 
 /*
