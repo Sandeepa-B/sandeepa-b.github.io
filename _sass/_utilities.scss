@@ -310,13 +310,13 @@ body:hover .visually-hidden button {
     transition: 0.3s;
   }
 
-  &:before {
-    top: (-2 * $navicon-height);
-  }
+  // &:before {
+  //   top: (-2 * $navicon-height);
+  // }
 
-  &:after {
-    bottom: (-2 * $navicon-height);
-  }
+  // &:after {
+  //   bottom: (-2 * $navicon-height);
+  // }
 }
 
 .close .navicon {
