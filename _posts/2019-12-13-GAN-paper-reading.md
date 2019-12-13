@@ -6,4 +6,8 @@ tags:
   - Generative Adversarial Net
 ---
 
-This is a slide about [Keyword Spotting with hardware constraint](http://adamdad.github.io/files/KWS with HW constraints.pdf). Some model compression approaches are also introduced to reduce the computational requirement.
+## Progressive GAN 
+#### Progressive growing of GAN
+- Start with low-resolution images and then progressively increasing the resolution by adding layers to the network!
+()![PGGAN](../images/post_images/gan/a.jpg)
+
