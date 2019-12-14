@@ -43,3 +43,7 @@ Award Selected
 * 12th place (Defence) on IJCAI-19 Alibaba Adversrial Vision Challenge
 * 3nd place on Alibaba AI Security Program
 * 2018 MCM/ICM Meritorious Winner Prize
+
+Professional Activities
+========
+* Reviewers for ICASSP 2020

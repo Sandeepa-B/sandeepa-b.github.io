@@ -11,3 +11,6 @@ tags:
 ![PGGAN](../images/post_images/gan/a.jpg)
 ![PGGANB](../images/post_images/gan/pgana.jpg)
 
+## Style GAN
+### Style-based generator
+Style GAN substitutes the input latent code with a learned constant and take original input latent code as feature space and add the style information in to the generator progressively. The input latent code $z$ is in the latent space $Z$, and a non-linear mapping network(8-layer MLP)performs to map $Z \to W$ and produce a style vector $w \in W$
