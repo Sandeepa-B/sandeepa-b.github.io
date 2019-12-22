@@ -26,7 +26,7 @@ Work experience
 ======
 * <img src="..\images\University_of_California,_San_Diego_seal.svg.png" alt="drawing" style="width:50px;" align="middle" border="3"/> University of California *Student Researcher* | Autumn 2019
 
-  * Supervisor: [Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/)
+  * Supervisor: [Prof.Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/)
   * Chest X-ray image synthesis with medical report
 
 * <img src="..\images\kneron.jpg" alt="drawing" style="width:50px;" align="middle" border="3"/> Kneron Inc. *Deep Learning Intern* | Autumn 2019
