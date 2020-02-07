@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first year Master student of University of California, San Diego. I am now working closely with [Prof.Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/). I got my Bachelor degree in Computer Science and Engineering from Southeast University, China in 2019. I used to be a visiting student of University of Ottawa, supervised by [Prof.Robert Laganière](http://www.site.uottawa.ca/~laganier/). 
 
-My research interest includes deep neural network and its application on computer vision and natural language processing.
+My research interest includes deep neural network and its application on computer vision and natural language processing. Recently I am paying special attention to multimodal learning.
 
 [Curriculum Vitae](http://adamdad.github.io/files/Xingyi Yang 2019_10_18.pdf)
 

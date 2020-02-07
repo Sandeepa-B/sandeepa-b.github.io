@@ -116,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/yang-xing-yi-33-54"
 
 
 # Reading Files
@@ -238,6 +239,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _experience
+  - scope:
+      path: ""
+      type: experience
   # _talks
   - scope:
       path: ""
