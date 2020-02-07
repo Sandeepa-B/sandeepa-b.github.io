@@ -1,8 +1,7 @@
 ---
-permalink: /experience/
 layout: archive
-title: "Xingyi Yang"
-excerpt: "Experience"
+permalink: /experience/
+title: "Experience"
 author_profile: true
 redirect_from: 
   - /exp
