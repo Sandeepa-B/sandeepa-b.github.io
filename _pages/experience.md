@@ -1,12 +1,14 @@
 ---
 layout: archive
 permalink: /experience/
+title: "About me"
 author_profile: true
 redirect_from: 
   - /exp
 ---
 
-Education
+
+## Education
 ======
 - <img src="..\images\University_of_California,_San_Diego_seal.svg.png" alt="drawing" style="width:50px;" align="middle" border="3"/> M.S. in California, University of California San Deigo, 2021
   
@@ -14,7 +16,7 @@ Education
 
 - <img src="..\images\ottawa.jpg" alt="drawing" style="width:50px;" align="middle" border="3"/> Visiting Student, in Ottawa, University of Ottawa, 2018
 
-Work experience
+## Work experience
 ======
 * <img src="..\images\University_of_California,_San_Diego_seal.svg.png" alt="drawing" style="width:50px;" align="middle" border="3"/> University of California *Student Researcher* | Autumn 2019
 
@@ -35,7 +37,7 @@ Work experience
 * <img src="..\images\arcsoft.svg" alt="drawing" style="width:50px;" align="middle" border="3"/>Arcsoft Inc. *Deep Learning Intern* | Spring 2018 
     * Single-image super-resolution based on semantic segmentation map
   
-Award Selected
+## Award Selected
 =======
 * 12th place (Defence) on IJCAI-19 Alibaba Adversrial Vision Challenge
 * 3nd place on Alibaba AI Security Program
