@@ -239,13 +239,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _experience
-  - scope:
-      path: ""
-      type: experience
-    values:
-      layout: archive
-      author_profile: true
   # _talks
   - scope:
       path: ""
