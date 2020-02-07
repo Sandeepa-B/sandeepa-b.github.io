@@ -243,6 +243,9 @@ defaults:
   - scope:
       path: ""
       type: experience
+    values:
+      layout: archive
+      author_profile: true
   # _talks
   - scope:
       path: ""
