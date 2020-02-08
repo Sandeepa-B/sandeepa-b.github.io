@@ -11,11 +11,12 @@ redirect_from:
 
 ## Education
 
-- <img src="..\images\University_of_California,_San_Diego_seal.svg.png" alt="drawing" style="width:50px;" align="middle" border="3"/> M.S. in California, University of California San Deigo, 2021
+- <img src="..\images\University_of_California,_San_Diego_seal.svg.png" alt="drawing" style="width:50px;" align="middle" border="3"/> M.S. in San Diego, University of California San Diego, 2021
   
 - <img src="..\images\southeast.jpg" alt="drawing" style="width:50px;" align="middle" border="3"/> B.S. in Nanjing, Southeast University University, 2019
 
 - <img src="..\images\ottawa.jpg" alt="drawing" style="width:50px;" align="middle" border="3"/> Visiting Student, in Ottawa, University of Ottawa, 2018
+
 --------
 ## Work experience
 
@@ -37,6 +38,7 @@ redirect_from:
 
 * <img src="..\images\arcsoft.svg" alt="drawing" style="width:50px;" align="middle" border="3"/>Arcsoft Inc. *Deep Learning Intern* | Spring 2018 
     * Single-image super-resolution based on semantic segmentation map
+
 -------
 ## Award Selected
 
