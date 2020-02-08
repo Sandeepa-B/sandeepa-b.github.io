@@ -14,4 +14,6 @@ My research interest includes deep neural network and its application on compute
 
 [Curriculum Vitae](http://adamdad.github.io/files/Xingyi Yang 2019_10_18.pdf)
 
+-------
+
 ![shengming](..\images\shengming2.PNG)
