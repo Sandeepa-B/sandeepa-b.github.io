@@ -12,5 +12,5 @@ I am a first year master student of University of California, San Diego. I am no
 
 My research interest includes deep neural network and its application on computer vision and natural language processing. Recently I am paying special attention to multimodal learning.
 
-[Curriculum Vitae](http://adamdad.github.io/files/Xingyi Yang 2019_10_18.pdf)
+[Curriculum Vitae](http://adamdad.github.io/files/Resume_Xingyi_Yang_20200321.pdf)
 
