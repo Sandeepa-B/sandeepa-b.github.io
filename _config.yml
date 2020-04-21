@@ -87,8 +87,8 @@ author:
   location         : "La Jolla"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "x3yang@ucsd.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=oCqKAnsAAAAJ"
+  email            : "x3yang@eng.ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
