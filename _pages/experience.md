@@ -23,6 +23,7 @@ redirect_from:
 * <img src="..\images\University_of_California,_San_Diego_seal.svg.png" alt="drawing" style="width:50px;" align="middle" border="3"/> University of California *Student Researcher* | Autumn 2019
 
   * Supervisor: [Prof.Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/)
+  * Comparative study of transfer learning and self-supervised learning
   * Chest X-ray image synthesis with medical report
 
 * <img src="..\images\kneron.jpg" alt="drawing" style="width:50px;" align="middle" border="3"/> Kneron Inc. *Deep Learning Intern* | Autumn 2019
@@ -33,7 +34,7 @@ redirect_from:
 * <img src="..\images\viva.png" alt="drawing" style="width:50px;" align="middle" border="3"/> University of Ottawa, VIVA Lab *Research Assistant* | Summer 2018
   * Supervisor: [Prof.Robert Laganière](http://www.site.uottawa.ca/~laganier/)
   * Utilize YOLOv3 on face detection,pedestrian detection and car detection
-  * Design a two-branch scale-aware YOlO model for pedestrian detection
+  * Design a two-branch scale-aware YOLO model for pedestrian detection
   
 
 * <img src="..\images\arcsoft.svg" alt="drawing" style="width:50px;" align="middle" border="3"/>Arcsoft Inc. *Deep Learning Intern* | Spring 2018 
@@ -45,3 +46,11 @@ redirect_from:
 * 12th place (Defence) on IJCAI-19 Alibaba Adversrial Vision Challenge
 * 3nd place on Alibaba AI Security Program
 * 2018 MCM/ICM Meritorious Winner Prize
+
+-------
+**I am also an amateur drummer and singer. I love playing bands. I love music. I deeply love my friends.**
+**If there is anything that can save my life, it must be rock. Rock you. Here are some performance**
+
+[HornPub Band: 2019/5/24](https://www.bilibili.com/video/BV1x4411s7FJ?from=search&seid=4795369069445210959)
+
+[No Bass Band: 2017/12/15](https://www.bilibili.com/video/BV1fW411b7iS?p=8)
