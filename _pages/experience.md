@@ -53,4 +53,4 @@ redirect_from:
 
 [HornPub Band: 2019/5/24](https://www.bilibili.com/video/BV1x4411s7FJ?from=search&seid=4795369069445210959)
 
-[No Bass Band: 2017/12/15](https://www.bilibili.com/video/BV1fW411b7iS?p=8)
+[M.Y.B.S Band: 2017/12/15](https://www.bilibili.com/video/BV1fW411b7iS?p=8)
