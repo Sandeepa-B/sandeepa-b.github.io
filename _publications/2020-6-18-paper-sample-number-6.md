@@ -7,6 +7,6 @@ citation:  <u>Xingyi Yang</u>, Nandiraju Gireesh, Eric Xing, Pengtao Xie
 venue: 'Preprint'
 
 ---
-
+Code is available at [code](https://github.com/UCSD-AI4H/XRayGAN)
 
 
