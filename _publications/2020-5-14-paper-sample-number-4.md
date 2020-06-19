@@ -7,4 +7,4 @@ citation: Wenmian Yang, Guangtao Zeng, Bowen Tan, Zeqian Ju, Subrato Chakravorty
 venue: 'Preprint'
 
 ---
-Code is available at [code](https://github.com/UCSD-AI4H/COVID-Dialogue)
+[code](https://github.com/UCSD-AI4H/COVID-Dialogue)
