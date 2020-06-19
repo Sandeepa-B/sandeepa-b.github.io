@@ -3,7 +3,7 @@ title: "[XRayGAN: Consistency-preserving Generation of X-ray Images from Radiolo
 collection: publications
 permalink: /publication/2020-6-18-paper-sample-number-6
 date: 2020-06-18
-citation: Xingyi Yang, Nandiraju Gireesh, Eric Xing, Pengtao Xie
+citation:  <u>Xingyi Yang</u>, Nandiraju Gireesh, Eric Xing, Pengtao Xie
 venue: 'Preprint'
 
 ---
