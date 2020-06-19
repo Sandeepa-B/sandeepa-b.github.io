@@ -8,5 +8,3 @@ venue: 'Preprint'
 
 ---
 Code is available at [code](https://github.com/UCSD-AI4H/COVID-Dialogue)
-
-
