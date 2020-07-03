@@ -14,3 +14,5 @@ My research interest includes deep neural network and its application on healthc
 
 [CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20200321.pdf)
 
+[News]
+- One paper accepted by ECCV2020, *Scene Scale Estimation from Single Image in the Wild*
