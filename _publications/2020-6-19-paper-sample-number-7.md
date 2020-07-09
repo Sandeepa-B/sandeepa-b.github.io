@@ -1,5 +1,5 @@
 ---
-title: "[Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms](https://www.researchgate.net/publication/342303732_Transfer_Learning_or_Self-supervised_Learning_A_Tale_of_Two_Pretraining_Paradigms)"
+title: "[Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms](https://arxiv.org/abs/2007.04234)"
 collection: publications
 permalink: /publication/2020-6-19-paper-sample-number-7
 date: 2020-06-19
