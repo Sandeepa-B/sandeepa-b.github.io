@@ -1,5 +1,5 @@
 ---
-title: "Scene Scale Estimation from Single Image in the Wild"
+title: "Single View Metrology in the Wild"
 collection: publications
 permalink: /publication/2020-7-2-paper-sample-number-8
 date: 2020-07-02
