@@ -7,5 +7,5 @@ citation:  <u>Xingyi Yang</u>, Xuehai He, Jinyu Zhao, Yichen Zhang, Shanghang Zh
 venue: 'Preprint'
 
 ---
-[paper](https://arxiv.org/abs/2003.13865)[code](https://github.com/UCSD-AI4H/COVID-CT)
+[paper](https://arxiv.org/abs/2003.13865) [code](https://github.com/UCSD-AI4H/COVID-CT)
 

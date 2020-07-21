@@ -7,4 +7,4 @@ citation:  <u>Xingyi Yang</u>, Nandiraju Gireesh, Eric Xing, Pengtao Xie
 venue: 'Preprint'
 
 ---
-[paper](https://arxiv.org/abs/2006.10552)[code](https://github.com/UCSD-AI4H/XRayGAN)
+[paper](https://arxiv.org/abs/2006.10552) [code](https://github.com/UCSD-AI4H/XRayGAN)
