@@ -7,4 +7,4 @@ citation:  Rui Zhu, <u>Xingyi Yang</u>, Yannick Hold-Geoffroy, Federico Perazzi,
 venue: '16th European Conference on Computer Vision <b>(ECCV2020)</b>'
 
 ---
-code and paper coming soon
+[paper](https://arxiv.org/abs/2007.09529)
