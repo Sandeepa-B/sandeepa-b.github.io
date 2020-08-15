@@ -7,4 +7,4 @@ citation:  <u>Xingyi Yang*</u>, Xuehai He∗,Yuxiao Liang, Yue Yang, Shanghang Z
 venue: 'Preprint'
 
 ---
-[paper](https://arxiv.org/abs/2007.0423) [code](https://github.com/UCSD-AI4H/SSL-TL)
+[paper](https://arxiv.org/abs/2007.04234) [code](https://github.com/UCSD-AI4H/SSL-TL)
