@@ -12,7 +12,7 @@ I am a first year master student of University of California, San Diego. I am no
 
 My research interest includes deep neural network and its application on healthcare. Recently I am paying special attention to self-supervised learning and adversarial learning.
 
-[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20200702.pdf)
+[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20200814.pdf)
 
 ### News
 - [2020/07/03] One paper accepted by ECCV2020, *Single View Metrology in the Wild*
