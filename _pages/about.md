@@ -12,7 +12,7 @@ I am a second year master student of University of California, San Diego. I am n
 
 My research interest includes deep neural network and its application on healthcare data, especially in the outbreak of the pandemic. Recently I am paying special attention on label-efficient learning(e.g. self-supervised & weak-supervised learning, meta-learning) and deep generative learning.
 
-[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20200814.pdf)
+[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20200922.pdf)
 
 ### News
 - [2020/09] One oral paper accepted by ISVC2020.
