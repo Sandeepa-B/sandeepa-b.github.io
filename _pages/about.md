@@ -15,5 +15,6 @@ My research interest includes deep neural network and its application on healthc
 [CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20200814.pdf)
 
 ### News
+- [2020/09] One oral paper accepted by ISVC2020.
 - [2020/08] Invited as the reviewer for IJCAI2021
 - [2020/07] One paper accepted by ECCV2020, *Single View Metrology in the Wild*
