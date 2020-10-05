@@ -15,6 +15,7 @@ My research interest includes deep neural network and its application on healthc
 [CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20200922.pdf)
 
 ### News
+- [2020/09] I am co-organizing NeurIPS 2020 workshop “[Self-Supervised Learning – Theory and Practice](https://sslneuips20.github.io/)”, serving as the Workflow Chair.
 - [2020/09] One oral paper accepted by ISVC2020.
 - [2020/08] Invited as the reviewer for IJCAI2021
 - [2020/07] One paper accepted by ECCV2020, *Single View Metrology in the Wild*
