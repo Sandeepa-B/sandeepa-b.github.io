@@ -49,9 +49,12 @@ redirect_from:
 
 -------
 ## Academic Service
+
 * Co-organizer for NeurIPS 2020 workshop “Self-Supervised Learning – Theory and Practice”, serving as Workflow Chair.
 * Reviewer for ICASSP2020, IJCAI2021, CVPR2021
+
 -------
+
 **I am also an amateur drummer and singer. I love playing bands. I love music. I deeply love my friends.**
 **If there is anything that can save my life, it must be rock. Rock you. Here are some performance**
 
