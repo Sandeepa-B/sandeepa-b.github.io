@@ -7,4 +7,4 @@ citation:  Rui Zhu, <u>Xingyi Yang</u>, Yannick Hold-Geoffroy, Federico Perazzi,
 venue: '16th European Conference on Computer Vision <b>(ECCV2020)</b>'
 
 ---
-[paper](https://arxiv.org/abs/2007.09529)
+[paper](https://arxiv.org/abs/2007.09529)[code](https://github.com/Jerrypiglet/ScaleNet)[project](https://jerrypiglet.github.io/ScaleNet/)
