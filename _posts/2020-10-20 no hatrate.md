@@ -5,6 +5,8 @@ tags:
   - Greatest mind of all time
 ---
 
+![style](../images/luxun.jpg)
+
 鲁迅<题三义塔> （1933年）
 
 --三义塔者，中国上海闸北三义里遗鸠埋骨之塔也，在日本，农人共建之。
