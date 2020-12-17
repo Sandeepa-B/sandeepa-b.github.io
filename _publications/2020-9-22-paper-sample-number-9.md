@@ -7,4 +7,4 @@ citation:  <u>Xingyi Yang</u>, Yong Wang, Robert Laganiere
 venue: 'International Symposium on Visual Computing <b>(ISVC 2020)</b> (Oral)'
 
 ---
-[paper](https://www.techrxiv.org/articles/preprint/A_scale-aware_YOLO_model_for_pedestrian_detection/13049129/2)
+[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-64559-5_2)
