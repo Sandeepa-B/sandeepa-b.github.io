@@ -12,7 +12,7 @@ I am a second year master student of University of California, San Diego. I am n
 
 My research interest includes machine learning and its application on healthcare data, especially in the outbreak of the pandemic. Recently I am paying special attention on label-efficient learning(e.g. self-supervised & weak-supervised learning, meta-learning) and deep generative learning.
 
-[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20201206_medical)
+[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20201206_medical.pdf)
 
 I believe in [Slow Science](http://slow-science.org/)
 
