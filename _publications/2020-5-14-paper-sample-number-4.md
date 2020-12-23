@@ -5,6 +5,6 @@ permalink: /publications/2020-5-14-paper-sample-number-4
 date: 2020-05-14
 citation: Wenmian Yang, Guangtao Zeng, Bowen Tan, Zeqian Ju, Subrato Chakravorty, Xuehai He, Shu Chen, <u>Xingyi Yang</u>, Qingyang Wu, Zhou Yu, Eric Xing, Pengtao Xie
 venue: 'Preprint'
-
+excerpt: False
 ---
 [paper](https://arxiv.org/abs/2005.05442) [code](https://github.com/UCSD-AI4H/COVID-Dialogue)

@@ -7,6 +7,6 @@ citation:  Ramtin Hosseini, <u>Xingyi Yang</u>, Pengtao Xie
 venue: 'Under Review'
 header:
     teaser: 'kk.jpg'
-
+excerpt: False
 ---
 [paper](https://arxiv.org/abs/2012.06122)
