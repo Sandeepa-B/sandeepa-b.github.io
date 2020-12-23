@@ -266,6 +266,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-remote-theme
