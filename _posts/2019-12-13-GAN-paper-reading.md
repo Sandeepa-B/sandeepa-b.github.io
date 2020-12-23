@@ -1,6 +1,7 @@
 ---
 title: 'GAN paper reading'
 date: 2019-12-13
+showexcerpt: True
 tags:
   - Generative Adversarial Net
 ---

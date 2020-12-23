@@ -2,6 +2,7 @@
 title: 'Keyword Spotting with hardware constraint'
 date: 2019-10-25
 permalink: /posts/2019/10/Keyword-Spotting-with-hardware-constraint/
+showexcerpt: True
 tags:
   - Model Compression
   - Keyword Spotting

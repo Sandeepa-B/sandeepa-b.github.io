@@ -1,6 +1,7 @@
 ---
 title: 'The Communist Manifesto, Manifesto of the Communist Party, Karl Marx'
 date: 2020-8-16
+showexcerpt: True
 tags:
   - Greatest mind of all time
 ---

@@ -1,6 +1,7 @@
 ---
 title: 'On the Battle Lost(Excerpt), Svetlana Alexievich, 2015 Nobel prize in literature speeches'
 date: 2020-5-9
+showexcerpt: True
 tags:
   - Greatest mind of all time
 ---
