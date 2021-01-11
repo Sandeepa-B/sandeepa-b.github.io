@@ -51,7 +51,7 @@ redirect_from:
 ## Academic Service
 
 * Co-organizer for NeurIPS 2020 workshop “Self-Supervised Learning – Theory and Practice”, serving as Workflow Chair.
-* Conference reviewer for ICASSP2020, IJCAI2021, CVPR2021.
+* Conference reviewer for ICASSP2020, IJCAI2021, CVPR2021, ICCV2021.
 * Journal reviewer for Journal of Biomedical and Health Informatics (JBHI).
   
 
