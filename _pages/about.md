@@ -17,7 +17,8 @@ My research interest includes machine learning and its application on healthcare
 I believe in [Slow Science](http://slow-science.org/)
 
 ### News
-- [2021/1] Invited as the reviewer for ICCV2021.
+- [2021/01] One paper accepted by ICASSP2021, *Kalman Optimizer for Consistent Gradient Descent*.
+- [2021/01] Invited as the reviewer for ICCV2021.
 - [2020/12] Invited as the reviewer for Journal of Biomedical and Health Informatics (JBHI).
 - [2020/09] I am co-organizing NeurIPS 2020 workshop “[Self-Supervised Learning – Theory and Practice](https://sslneuips20.github.io/)”, serving as the Workflow Chair.
 - [2020/09] One oral paper accepted by ISVC2020.
