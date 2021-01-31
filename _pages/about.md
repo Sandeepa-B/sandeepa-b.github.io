@@ -12,7 +12,7 @@ I am a second year master student of University of California, San Diego. I am n
 
 My research interest includes machine learning and its application on healthcare data, especially in the outbreak of the pandemic. Recently I am paying special attention on label-efficient learning(e.g. self-supervised & weak-supervised learning, meta-learning) and deep generative learning.
 
-[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20210129_medical.pdf)
+[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20210131_medical.pdf)
 
 I believe in [Slow Science](http://slow-science.org/)
 
@@ -23,4 +23,4 @@ I believe in [Slow Science](http://slow-science.org/)
 - [2020/09] I am co-organizing NeurIPS 2020 workshop “[Self-Supervised Learning – Theory and Practice](https://sslneuips20.github.io/)”, serving as the Workflow Chair.
 - [2020/09] One oral paper accepted by ISVC2020.
 - [2020/09] Invited as the reviewer for IJCAI2021, CVPR2021.
-- [2020/07] One paper accepted by ECCV2020, *Single View Metrology in the Wild*
+- [2020/07] One paper accepted by ECCV2020, *Single Viaew Metrology in the Wild*
