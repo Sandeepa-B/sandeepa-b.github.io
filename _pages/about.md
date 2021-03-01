@@ -21,6 +21,7 @@ My current research interest can be summarized into **3M** scheme:
 I believe in [Slow Science](http://slow-science.org/)
 
 ### News
+- [2021/02] One paper accepted by CVPR2021, *DSRNA: Differentiable Search of Robust Neural Architectures*.
 - [2021/01] One paper accepted by ICASSP2021, *Kalman Optimizer for Consistent Gradient Descent*.
 - [2021/01] Invited as the reviewer for ICCV2021.
 - [2020/12] Invited as the reviewer for Journal of Biomedical and Health Informatics (JBHI).
