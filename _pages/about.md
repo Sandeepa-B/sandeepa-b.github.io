@@ -16,7 +16,7 @@ My current research interest can be summarized into **3M** scheme:
 - **M**edical data analysis, especially in the outbreak of the pandemic. 
 
 
-[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20210131_medical.pdf)
+[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20210228_medical.pdf)
 
 I believe in [Slow Science](http://slow-science.org/)
 
