@@ -12,7 +12,7 @@ I am a second year master student of University of California, San Diego. I am n
 
 My current research interest can be summarized into **3M** scheme:
 - Statistical **M**achine learning. Focus on generative modeling and robust learning.
-- **M**inimal supervision. Focus on self-supervised & weak-supervised learning, transfer learning, knowledge-grounded learning.
+- **M**inimal supervision. Focus on self-supervised & semi-supervised & weak-supervised learning, transfer learning, knowledge-grounded learning.
 - **M**edical data analysis, especially in the outbreak of the pandemic. 
 
 
