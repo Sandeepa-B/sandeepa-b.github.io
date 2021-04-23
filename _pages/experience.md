@@ -20,6 +20,11 @@ redirect_from:
 --------
 ## Work experience
 
+* <img src="..\images\sensetime.png" alt="drawing" style="width:50px;" align="middle" border="3"/> Sensetime Research *Reseach Intern* | Spring 2021
+
+  * Maintain the codebase of OpenMMlab
+  * Semi-supervised object detection
+
 * <img src="..\images\University_of_California,_San_Diego_seal.svg.png" alt="drawing" style="width:50px;" align="middle" border="3"/> University of California *Student Researcher* | Autumn 2019
 
   * Supervisor: [Prof.Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/)
@@ -52,10 +57,7 @@ redirect_from:
 
 * Co-organizer for NeurIPS 2020 workshop “Self-Supervised Learning – Theory and Practice”, serving as Workflow Chair.
 * Conference reviewer for 
-  - Conference on Computer Vision and Pattern Recognition (CVPR) 2021
-  - International Joint Conference on Artificial Intelligence (IJCAI) 2021
-  - International Conference on Computer Vision (ICCV) 2021
-  - International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2020
+  - CVPR 2021, IJCAI 2021, ICCV 2021, ICASSP 2020
 
   
 * Journal reviewer for 
