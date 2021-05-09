@@ -16,7 +16,7 @@ My current research interest can be summarized into **3M** scheme:
 - **M**edical data analysis, especially in the outbreak of the pandemic. 
 
 
-[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20210228_medical.pdf)
+[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20210506_medical.pdf)
 
 I believe in [Slow Science](http://slow-science.org/)
 
@@ -24,9 +24,6 @@ I believe in [Slow Science](http://slow-science.org/)
 - [2021/05] Two paper accepted by ACL2021, one about *Medical report generation* and one on *COVID-19 Dialogues*.
 - [2021/02] One paper accepted by CVPR2021, *DSRNA: Differentiable Search of Robust Neural Architectures*.
 - [2021/01] One paper accepted by ICASSP2021, *Kalman Optimizer for Consistent Gradient Descent*.
-- [2021/01] Invited as the reviewer for ICCV2021.
-- [2020/12] Invited as the reviewer for Journal of Biomedical and Health Informatics (JBHI).
 - [2020/09] I am co-organizing NeurIPS 2020 workshop “[Self-Supervised Learning – Theory and Practice](https://sslneuips20.github.io/)”, serving as the Workflow Chair.
 - [2020/09] One oral paper accepted by ISVC2020.
-- [2020/09] Invited as the reviewer for IJCAI2021, CVPR2021.
 - [2020/07] One paper accepted by ECCV2020, *Single Viaew Metrology in the Wild*
