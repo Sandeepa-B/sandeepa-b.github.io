@@ -64,12 +64,3 @@ redirect_from:
   - Journal of Biomedical and Health Informatics (JBHI)
   - Expert Systems With Applications (ESWA)
   
-
--------
-
-**I am also an amateur drummer and singer. I love playing bands. I love music. I deeply love my friends.**
-**If there is anything that can save my life, it must be rock. Rock you. Here are some performance**
-
-[HornPub Band: 2019/5/24](https://www.bilibili.com/video/BV1x4411s7FJ?from=search&seid=4795369069445210959)
-
-[M.Y.B.S Band: 2017/12/15](https://www.bilibili.com/video/BV1fW411b7iS?p=8)
