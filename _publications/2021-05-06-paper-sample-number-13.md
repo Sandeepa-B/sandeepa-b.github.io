@@ -7,4 +7,4 @@ citation:  <u>Xingyi Yang</u>, Muchao Ye, Quanzeng You and Fenglong Ma
 venue: 'The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL2021), long paper'
 showexcerpt: False
 ---
-[paper](http://adamdad.github.io/files/_ACL2021_ReportGen.pdf)
+[paper](http://adamdad.github.io/files/ACL2021_ReportGen.pdf)
