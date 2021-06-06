@@ -11,7 +11,7 @@ redirect_from:
 
 ## Music
 
-I am also an amateur drummer and singer. I have been playing drums since I was 12. I deeply love playing bands and the friends that I made through music.
+I am also an amateur drummer and singer. I deeply love playing bands and the friends that I made through music.
 If there is anything that can save my life, it must be rock. Rock you. Here are some performance
 
 **Graduation performance-By HornPub Band: 2019-5-24**
