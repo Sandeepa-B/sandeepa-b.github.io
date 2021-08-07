@@ -8,6 +8,11 @@ author_profile: false
 <!-- {% if author.googlescholar %} -->
   
 <!-- {% endif %} -->
+<style type="text/css">
+  body{
+  font-size: 16pt;
+}
+</style>
 
 {% include base_path %}
 You can also find my papers on <a href="https://scholar.google.com/citations?user=oCqKAnsAAAAJ&hl=en">Google Scholar</a>.
