@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+body {
+  font-size: 16px;
+}
 
  I am a Ph.D student at [National University of Singapore(NUS)](https://www.nus.edu.sg/) at Learning and Vision Lab. I am now working under the supervision of [Prof.Xinchao Wang](https://www.eng.nus.edu.sg/ece/staff/wang-xinchao/). I got my master's degree in Electrical and Computer Engineering from [University of California, San Diego](https://ucsd.edu/) in 2021 and my bachelor degree in Computer Science and Engineering from [Southeast University](https://www.seu.edu.cn/english/), China in 2019. I am also fortunate to work with [Prof.Pengtao Xie](https://pengtaoxie.github.io/), [Prof.Rose Yu](http://roseyu.com/), [Prof.Fenglong ma](http://personal.psu.edu/ffm5105/) and [Prof.Yining Hu](https://www.researchgate.net/profile/Yining-Hu-4). I used to be a visiting student at University of Ottawa, supervised by [Prof.Robert Laganière](http://www.site.uottawa.ca/~laganier/). 
 
