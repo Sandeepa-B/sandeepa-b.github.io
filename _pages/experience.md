@@ -57,10 +57,11 @@ redirect_from:
 
 * Co-organizer for NeurIPS 2020 workshop “Self-Supervised Learning – Theory and Practice”, serving as Workflow Chair.
 * Conference reviewer for 
-  - CVPR 2021, IJCAI 2021, ICCV 2021, ICASSP 2020
+  - CVPR 2021, IJCAI 2021, ICCV 2021, ECAL 2022, ICASSP 2020
 
   
 * Journal reviewer for 
   - Journal of Biomedical and Health Informatics (JBHI)
   - Expert Systems With Applications (ESWA)
+  - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
   
