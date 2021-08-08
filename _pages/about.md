@@ -11,7 +11,6 @@ redirect_from:
 <style type="text/css">
   body{
   font-size: 14pt;
-  font-family: 'Monaco';
 }
 </style>
 
