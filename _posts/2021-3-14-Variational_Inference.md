@@ -41,4 +41,51 @@ p(\mathbf{\mu}, \mathbf{c}, \mathbf{x}) = \prod_{i=1}^n p(x_i,c_i, \mathbf{\mu})
 = p(\mathbf{\mu}) \prod_{i=1}^n p(x_i|c_i, \mathbf{\mu}) p(c_i) \\
 $$
 
-Given the observed $\mathbf{x}$, our hidden variables are $\mathbf{z} = \{\mathbf{\mu}, \mathbf{c}\}$
+Given the observed $\mathbf{x}$, our hidden variables are $\mathbf{z} = \{\mathbf{\mu}, \mathbf{c}\}$. Hence the evidence integral is 
+
+$$
+p(\mathbf{x}) = \sum_{c_i}\int p(\mathbf{\mu}) \prod_{i=1}^n p(x_i|c_i, \mathbf{\mu})  p(c_i) \text{d}\mathbf{\mu} \\
+= \sum_{c_i}p(c_i)\int p(\mathbf{\mu}) \prod_{i=1}^n p(x_i|c_i, \mathbf{\mu})  \text{d}\mathbf{\mu}
+$$
+
+## The evidence lower bound (ELBO)
+
+In variational inference, we specify a family $\mathscr{L}$ of density over the hidden variables. Our goal is to find the best $q(\mathbf{z}) \in \mathscr{L}$ with the smallest KL divergence to the posterior density. Inference becomes a problem of optimization
+
+$$
+q^*(\mathbf{z})=\arg\min_{q(\mathbf{z}) \in \mathscr{L}} KL(q(\mathbf{z})||p(\mathbf{z}|\mathbf{x}))
+$$
+
+$q^*(\mathbf{z})$ is the best approximation of $p(\mathbf{z}|\mathbf{x})$. Based on the definition of KL divergence
+
+$$
+KL(q(\mathbf{z})||p(\mathbf{z}|\mathbf{x})) = \mathbb{E}[\log q(\mathbf{z})] - \mathbb{E}[\log p(\mathbf{z}|\mathbf{x})]\\
+= \mathbb{E}[\log q(\mathbf{z})] - \mathbb{E}[\log \frac{p(\mathbf{z},\mathbf{x})}{p(\mathbf{x})}]\\
+= \mathbb{E}[\log q(\mathbf{z})] - \mathbb{E}[\log  p(\mathbf{z},\mathbf{x})] + \mathbb{E}[\log p(\mathbf{x})]
+$$
+
+Because all expectation are taken with respect to $\mathbf{z}$, $\mathbb{E}[\log p(\mathbf{x})] = \log p(\mathbf{x})$. So this KL divergence requires the computation of $p(\mathbf{x})$ again, which is not trackable. 
+
+Instead of compute KL directly, we optimize an alternative objective that is equivalent to KL adding a constant
+
+$$
+\text{ELBO}(q) = \mathbb{E}[\log  p(\mathbf{z},\mathbf{x})] - \mathbb{E}[\log q(\mathbf{z})] 
+$$
+
+This function is called evidence lower bound (ELBO). It is clear that
+$\text{ELBO} = - \text{KL} + \log p(\mathbf{x})$. Since $\log p(\mathbf{x})$ is a constant with respect to $q(\mathbf{z})$, maximizing ELBO is equivalent to minimizing KL.
+
+We rewrite the formula of ELBO as a sum of log likelihood of data and KL divergence between $q(\mathbf{z})$ and $p(\mathbf{z})$
+
+$$
+\text{ELBO}(q) = \mathbb{E}[\log  p(\mathbf{z},\mathbf{x})] - \mathbb{E}[\log q(\mathbf{z})]\\
+=\mathbb{E}[\log  p(\mathbf{x}|\mathbf{z})p(\mathbf{z})] - \mathbb{E}[\log q(\mathbf{z})]\\
+=\mathbb{E}[\log  p(\mathbf{x}|\mathbf{z})] + \mathbb{E}[\log p(\mathbf{z})] - \mathbb{E}[\log q(\mathbf{z})]\\
+=\mathbb{E}[\log  p(\mathbf{x}|\mathbf{z})] - \text{KL}[q(\mathbf{z})||p(\mathbf{z})]
+$$
+
+### What does ELBO mean?
+1. $\mathbb{E}[\log  p(\mathbf{x}|\mathbf{z})]$ is the expected log likelihood. It encourages the densities of hidden variables to explain the observed data.
+2. $- \text{KL}[q(\mathbf{z})||p(\mathbf{z})]$ is the the negative divergence between the variational density and the prior. It encourages the density close to the prior. 
+
+Thus the ELBO mirrors the usual **balance between likelihood and prior**.
