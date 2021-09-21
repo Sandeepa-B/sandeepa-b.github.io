@@ -64,7 +64,7 @@ I got my master's degree in Electrical and Computer Engineering from [University
 * Co-organizer for NeurIPS 2020 workshop “Self-Supervised Learning – Theory and Practice”, serving as Workflow Chair.
 * Conference reviewer for 
   - CVPR 2021, 2022
-  - IJCAI 2021, 
+  - IJCAI 2021
   - ICCV 2021
   - ECAL 2022
   - ICASSP 2020
