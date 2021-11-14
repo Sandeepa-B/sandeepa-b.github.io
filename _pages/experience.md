@@ -26,7 +26,7 @@ I got my master's degree in Electrical and Computer Engineering from [University
 --------
 ## Work experience
 
-* <img src="..\images\sensetime.png" alt="drawing" style="width:50px;" align="middle" border="3"/> Sensetime Research *Reseach Intern* | Spring 2021
+* <img src="..\images\sensetime.png" alt="drawing" style="width:50px;" align="middle" border="3"/> Sensetime Research&Shanghai AI lab *Reseach Intern* | Spring 2021
 
   * Maintain the codebase of OpenMMlab
   * Semi-supervised object detection
@@ -54,6 +54,7 @@ I got my master's degree in Electrical and Computer Engineering from [University
 -------
 ## Award Selected
 
+* National University of Singapore, Graduate Research Scholarship
 * 12th place (Defence) on IJCAI-19 Alibaba Adversrial Vision Challenge
 * 3nd place on Alibaba AI Security Program
 * 2018 MCM/ICM Meritorious Winner Prize
@@ -64,7 +65,7 @@ I got my master's degree in Electrical and Computer Engineering from [University
 * Co-organizer for NeurIPS 2020 workshop “Self-Supervised Learning – Theory and Practice”, serving as Workflow Chair.
 * Conference reviewer for 
   - CVPR 2021, 2022
-  - IJCAI 2021
+  - IJCAI 2021, 2022
   - ICCV 2021
   - ECAL 2022
   - ICASSP 2020
