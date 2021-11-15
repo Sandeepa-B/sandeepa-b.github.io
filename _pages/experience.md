@@ -68,7 +68,7 @@ I got my master's degree in Electrical and Computer Engineering from [University
   - IJCAI 2021, 2022
   - ICCV 2021
   - ECAL 2022
-  - ICASSP 2020
+  - ICASSP 2020, 2022
 
   
 * Journal reviewer for 
