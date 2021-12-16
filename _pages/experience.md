@@ -27,7 +27,8 @@ I got my master's degree in Electrical and Computer Engineering from [University
 ## Work experience
 
 * <img src="..\images\sensetime.png" alt="drawing" style="width:50px;" align="middle" border="3"/> Sensetime Research&Shanghai AI lab *Reseach Intern* | Spring 2021
-
+  
+  * Supervisor: [Dr.Xinjiang Wang](https://scholar.google.com/citations?user=q4lnWaoAAAAJ&hl=en)
   * Maintain the codebase of OpenMMlab
   * Semi-supervised object detection
 
