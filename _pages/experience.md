@@ -61,6 +61,11 @@ I got my master's degree in Electrical and Computer Engineering from [University
 * 2018 MCM/ICM Meritorious Winner Prize
 
 -------
+## Teaching
+* EE5934/6934: Deep Learning, 2022 Spring, Teaching Assistant.
+* EE2211: Introduction to Machine Learning, 2022 Spring, Teaching Assistant.
+
+-------
 ## Academic Service
 
 * Co-organizer for NeurIPS 2020 workshop “Self-Supervised Learning – Theory and Practice”, serving as Workflow Chair.
