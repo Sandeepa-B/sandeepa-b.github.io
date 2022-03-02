@@ -2,9 +2,9 @@
 title: "Neural Point Process for Learning Spatiotemporal Event Dynamics"
 collection: publications
 permalink: /publications/2021-05-06-paper-sample-number-14
-date: 2021-01-01
+date: 2022-03-02
 citation: Zihao Zhou, <u>Xingyi Yang</u>, Ryan Rossi, Handong Zhao, Rose Yu
-venue: 'Preprint'
+venue: 'Conference on Learning for Dynamics and Control (L4DC) 2022'
 showexcerpt: False
 ---
 [paper](https://arxiv.org/pdf/2112.06351.pdf)
