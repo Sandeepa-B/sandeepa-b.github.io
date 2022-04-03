@@ -14,6 +14,10 @@ redirect_from:
 I am also an amateur drummer and singer. I deeply love playing bands and the friends that I made through music.
 If there is anything that can save my life, it must be rock. Rock you. Here are some performance
 
+**Allow the artists to get rich first-Second-Hand Rose(Cover)-By Siiick Band: 2022-3-29**
+
+<iframe src="//player.bilibili.com/player.html?aid=852785552&bvid=BV18L4y1L7B2&cid=565034532&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>
+
 **My Jinji-Sunset Rollercoaster(Cover)-By Siiick Band: 2022-2-19**
 <iframe src="//player.bilibili.com/player.html?aid=894284798&bvid=BV1MP4y1c7Ek&cid=517881501&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>
 
