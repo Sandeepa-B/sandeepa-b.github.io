@@ -16,12 +16,10 @@ redirect_from:
 
  I am a first-year Ph.D student at [National University of Singapore(NUS)](https://www.nus.edu.sg/) at Learning and Vision Lab. I am now working under the supervision of [Prof.Xinchao Wang](https://www.eng.nus.edu.sg/ece/staff/wang-xinchao/). 
 
-My current research interest can be summarized into **3M** scheme:
-- Statistical **M**achine learning. Focus on generative modeling, trust-worthy learning (interpretability and robustness) and graph learning, with theoretical basis or guarantee.
-- **M**inimal supervision. Focus on self-supervised & semi-supervised & weak-supervised learning, transfer learning, knowledge-grounded learning.
-- **M**edical data analysis, especially during the outbreak of the pandemic. 
-
-
+My current research interest lies in Efficent AI and Core ML:
+- Knowledge Efficiency, that empowers the AI systems to learn new tasks with the knowledge from trained models and human experts.
+- Data Efficency. Focus on self-supervised & semi-supervised & weak-supervised learning or learning with synthesized data.
+- Core ML. Focus on statitical modelling, trust-worthy learning (interpretability and robustness) and graph learning, ideally, with theoretical basis or guarantee.
 
 
 [CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20210729.pdf)
