@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
- I am a first-year Ph.D student at [National University of Singapore(NUS)](https://www.nus.edu.sg/) at Learning and Vision Lab. I am now working under the supervision of [Prof.Xinchao Wang](https://www.eng.nus.edu.sg/ece/staff/wang-xinchao/). 
+ I am a first-year Ph.D student at [National University of Singapore(NUS)](https://www.nus.edu.sg/) at [Learning and Vision Lab](http://www.lv-nus.org). I am now working under the supervision of [Prof.Xinchao Wang](https://www.eng.nus.edu.sg/ece/staff/wang-xinchao/). 
 
 My current research interest lies in Efficent AI and Statitical ML:
 - Knowledge Efficiency, that empowers the AI systems to learn new tasks with the knowledge from trained models and human experts.
