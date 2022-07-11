@@ -27,7 +27,7 @@ My current research interest lies in Efficent AI and Statitical ML:
 I believe in [Slow Science](http://slow-science.org/)
 
 ### News
-- [2022/07] Two paper accepted by ECCV2022, one *Knowledge Transfer*.
+- [2022/07] Two paper accepted by ECCV2022, both on *Knowledge Transfer*.
 - [2021/05] Two paper accepted by ACL2021, one about *Medical report generation* and one on *COVID-19 Dialogues*.
 - [2021/02] One paper accepted by CVPR2021, *DSRNA: Differentiable Search of Robust Neural Architectures*.
 - [2021/01] One paper accepted by ICASSP2021, *Kalman Optimizer for Consistent Gradient Descent*.
