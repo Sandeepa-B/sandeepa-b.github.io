@@ -26,10 +26,3 @@ My current research interest lies in Efficent AI and Statitical ML:
 
 I believe in [Slow Science](http://slow-science.org/)
 
-### News
-- [2022/07] Two paper accepted by ECCV2022, both on *Knowledge Transfer*.
-- [2021/05] Two paper accepted by ACL2021, one about *Medical report generation* and one on *COVID-19 Dialogues*.
-- [2021/02] One paper accepted by CVPR2021, *DSRNA: Differentiable Search of Robust Neural Architectures*.
-- [2021/01] One paper accepted by ICASSP2021, *Kalman Optimizer for Consistent Gradient Descent*.
-- [2020/09] I am co-organizing NeurIPS 2020 workshop “[Self-Supervised Learning – Theory and Practice](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16146)”, serving as the Workflow Chair.
-- [2020/07] One paper accepted by ECCV2020, *Single View Metrology in the Wild*
