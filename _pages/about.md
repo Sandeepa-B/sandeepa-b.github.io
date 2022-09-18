@@ -25,3 +25,28 @@ My current research interest lies in Efficent AI and Statitical ML:
 [CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20220722.pdf)
 
 I believe in [Slow Science](http://slow-science.org/)
+
+
+<div style="margin-top: 20px;">
+
+  <figure class="wave">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602040491414/RKBo8jy-u.jpeg" alt="rajni"></img>
+    <figcaption>Rajinikanth</figcaption>
+  </figure>
+
+  <figure class="wave">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602040470953/tCodF_LJ9.png" alt="chuck"></img>
+    <figcaption>Chuck Norris</figcaption>
+  </figure>
+
+  <figure class="wave">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602040482117/DU28C3ZZ1.png" alt="chan"></img>
+    <figcaption>Jackie Chan</figcaption>
+  </figure>
+
+  <figure class="wave">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602040456162/jUM3UTpdS.png" alt="bean"></img>
+    <figcaption>Mr. Bean</figcaption>
+  </figure>
+
+</div>
