@@ -40,5 +40,4 @@ If there is anything that can save my life, it must be rock. Rock you. Here are 
 
 ## Art Pieces
 
-<iframe src="https://albumizr.com/a/GLyv" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
-
+<iframe src="https://albumizr.com/a/Al9J" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
