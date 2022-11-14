@@ -1,5 +1,5 @@
 ---
-title: "Deep Model Reassembly"
+title: "Deep Model Reassembly<a class="github-button" href="https://github.com/adamdad/dery" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star adamdad/dery on GitHub">Star</a>"
 collection: publications
 permalink: /publications/2022_neurips_dery
 date: 2022-11-3
