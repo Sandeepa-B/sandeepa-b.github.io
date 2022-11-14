@@ -22,7 +22,7 @@ My current research interest lies in Efficent AI and Statitical ML:
 - Statitical ML. Focus on statitical modelling, generative models, trust-worthy learning (interpretability and robustness) and graph learning, ideally, with theoretical basis or guarantee.
 
 
-[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_20220722.pdf)
+[CV](http://adamdad.github.io/files/Resume_Xingyi_Yang_202201115.pdf)
 
 I believe in [Slow Science](http://slow-science.org/)
 
