@@ -202,32 +202,20 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            In this paper, we explore a novel knowledge-transfer task, termed as <span class="dnerf">Deep
-              Model Reassembly (DeRy)</span>, for general-purpose model reuse.
-          </p>
-          <p>
-            Given a collection of heterogeneous models pre-trained from distinct sources and with diverse
-            architectures, the goal of DeRy, as its name implies, is to first dissect each
-            model into distinctive building blocks, and then selectively reassemble the derived
-            blocks to produce customized networks under both the hardware resource and
-            performance constraints. Such ambitious nature of DeRy inevitably imposes
-            significant challenges, including, in the first place, the feasibility of its solution. We
-            strive to showcase that, through a dedicated paradigm proposed in this paper,
-            DeRy can be made not only possibly but practically efficiently. Specifically,
-            we conduct the partitions of all pre-trained networks jointly via a cover set
-            optimization, and derive a number of equivalence set, within each of which the
-            network blocks are treated as functionally equivalent and hence interchangeable.
-            The equivalence sets learned in this way, in turn, enable picking and assembling
-            blocks to customize networks subject to certain constraints, which is achieved via
-            solving an integer program backed up with a training-free proxy to estimate the
-            task performance.
-          </p>
-          <p>
-            The reassembled models, give rise to gratifying performances
-            with the user-specified constraints satisfied. We demonstrate that on ImageNet, the
-            best reassemble model achieves 78.6% top-1 accuracy without fine-tuning, which
-            could be further elevated to 83.2% with end-to-end training. Our code is available
-            at https://github.com/Adamdad/DeRy
+            In this study, we dive deep into the inconsistency of pseudo targets in semi-supervised object detection (SSOD). 
+            Our core observation is that the oscillating pseudo targets undermine the training of an accurate semi-supervised detector.
+            It not only injects noise into student training but also leads to severe overfitting on the classification task. 
+            Therefore, we propose a systematic solution, termed Consistent-Teacher , to reduce the inconsistency. 
+            First, adaptive anchor assignment (ASA) substitutes the static IoU-based strategy, which enables the student 
+            network to be resistant to noisy pseudo bounding boxes; Then we calibrate the subtask predictions by designing 
+            a 3D feature alignment module (FAM-3D). It allows each classification feature to adaptively query the optimal
+             feature vector for the regression task at arbitrary scales and locations. Lastly, a Gaussian Mixture Model (GMM) 
+             dynamically revises the score threshold of the pseudo-bboxes, which stabilizes the number of ground-truths at an 
+             early stage and remedies the unreliable supervision signal during training. Consistent-Teacher provides strong 
+             results on a large range of SSOD evaluations. It achieves 40.0 mAP with ResNet-50 backbone given only 10% of 
+             annotated MS-COCO data, which surpasses previous baselines using pseudo labels by around 3 mAP. When trained on 
+             fully annotated MS-COCO with additional unlabeled data, the performance further increases to 47.7 mAP. 
+             Our code is open-sourced at https://github.com/Adamdad/ConsistentTeacher.
           </p>
         </div>
       </div>
