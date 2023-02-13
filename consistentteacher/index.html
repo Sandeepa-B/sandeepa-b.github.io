@@ -185,8 +185,8 @@
       </video> -->
       <img src="./static/images/pipeline4.jpg" alt="DeRy pipeline">
       <h2 class="subtitle has-text-centered">
-        <span class="dnerf">DeRy</span> partitions pre-trained models into equivalent sets of neural blocks and
-        then reassemble them for downstream transfer.
+        <span class="dnerf">Consistent-Teacher</span> includes 3 modules to stabilize the pseudo labels in SSOD, namely adaptive anchor assignment (ASA), 
+        3D feature alignment module (FAM-3D) and Gaussian Mixture Model based threshold (GMM).
       </h2>
     </div>
   </div>
@@ -232,6 +232,27 @@
       </div>
     </div>
     <!--/ Paper video. -->
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+
+    <!-- Concurrent Work. -->
+    <img src="./static/images/motivation.jpg" alt="motivation">
+    <h2 class="subtitle has-text-centered">
+      <span class="dnerf">Motivation</span> 
+      (Left) We compare the training losses between the Mean-Teacher and our Consistent-Teacher. 
+      In Mean-Teacher, inconsistent pseudo targets lead to overfitting on the classification branch, 
+      while regression losses become difficult to converge. In contrast, our approach sets consistent optimization objectives for the students, effectively balancing the two tasks and preventing overfitting. 
+      
+      (Right) Snapshots for the dynamics of pseudo labels and assignment. The Green and Red bboxes refer to the ground-truth and pseudo bbox for the polar bear. 
+      Red dots are the assigned anchor boxes for the pseudo label. 
+      The heatmap indicates the dense confidence score predicted by the teacher (brighter the larger). 
+      The nearby board is finally misclassified as a polar bear in the baseline while our adaptive assignment prevents overfitting..
+    </h2>
+    <!--/ Concurrent Work. -->
+
   </div>
 </section>
 
