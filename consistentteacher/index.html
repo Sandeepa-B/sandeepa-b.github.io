@@ -6,7 +6,7 @@
         content="Consistent-Teacher provides strong results on a large range of SSOD evaluations.">
   <meta name="keywords" content="Semi-supervised, Object Detection">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Deep Model Reassembly</title>
+  <title>Consistent-Teacher</title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
@@ -63,8 +63,8 @@
           More Research
         </a>
         <div class="navbar-dropdown">
-          <a class="navbar-item" href="https://github.com/Adamdad/KnowledgeFactor">
-            KnowledgeFactor
+          <a class="navbar-item" href="https://github.com/jshilong/GroupRCNN">
+            GroupRCNN
           </a>
         </div>
       </div>
@@ -79,7 +79,7 @@
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column has-text-centered">
-          <h1 class="title is-1 publication-title">Consistent-Teacher: Towards Reducing Inconsistent Pseudo-targets in Semi-supervised Object Detection<br>Arxiv 2022</h1>
+          <h1 class="title is-1 publication-title">Consistent-Teacher: Towards Reducing Inconsistent Pseudo-targets in Semi-supervised Object Detection<br>CVPR 2023</h1>
           <div class="is-size-5 publication-authors">
             <span class="author-block">
               <a href="">Xinjiang Wang</a><sup>1</sup>,
@@ -187,6 +187,8 @@
       <h2 class="subtitle has-text-centered">
         <span class="dnerf">Consistent-Teacher</span> includes 3 modules to stabilize the pseudo labels in SSOD, namely adaptive anchor assignment (ASA), 
         3D feature alignment module (FAM-3D) and Gaussian Mixture Model based threshold (GMM).
+
+        <b>We can train your detector to 40 mAP on MS-COCO with 10% labels.</b>
       </h2>
     </div>
   </div>
@@ -237,50 +239,62 @@
 
 <section class="section">
   <div class="container is-max-desktop">
-
+    <h2 class="title is-3">Motivation</h2>
     <!-- Concurrent Work. -->
+    <b>Inconsistency</b> refers to the fact that the <i>pseudo boxes may be highly inaccurate and vary greatly</i> at different stages of training.
     <img src="./static/images/motivation.jpg" alt="motivation">
     <h2 class="subtitle has-text-centered">
       <span class="dnerf">Motivation: Inconsisteny For SSOD</span> 
     </h2>
     <p>
-      <b>(Left)</b> We compare the training losses between the Mean-Teacher and our Consistent-Teacher. 
-      In Mean-Teacher, inconsistent pseudo targets lead to overfitting on the classification branch, 
+      <b>(Left)</b> We compare the training losses between the <b>Mean-Teacher</b> and our <b>Consistent-Teacher</b>. 
+      In <b>Mean-Teacher</b>, inconsistent pseudo targets lead to overfitting on the classification branch, 
       while regression losses become difficult to converge. In contrast, our approach sets consistent optimization objectives for the students, effectively balancing the two tasks and preventing overfitting. 
     </p>
     <p>
-      <b>(Right)</b> Snapshots for the dynamics of pseudo labels and assignment. The Green and Red bboxes refer to the ground-truth and pseudo bbox for the polar bear. 
-      Red dots are the assigned anchor boxes for the pseudo label. 
+      <b>(Right)</b> Snapshots for the dynamics of pseudo labels and assignment. The <b style="color:green;">Green</b> and <b style="color:red;">Red</b> bboxes refer to the ground-truth and pseudo bbox for the polar bear. 
+      <b style="color:red;">Red dots</b> are the assigned anchor boxes for the pseudo label. 
       The heatmap indicates the dense confidence score predicted by the teacher (brighter the larger). 
       The nearby board is finally misclassified as a polar bear in the baseline while our adaptive assignment prevents overfitting.
     </p>
-    <!--/ Concurrent Work. -->
-    <video width="320" height="240" controls>
-      <source src="static/images/videos/Giraffa/MeanTeacher.mp4" type="video/mp4">
-    Mean-Teacher
-    </video>
-    <video width="320" height="240" controls>
-      <source src="static/images/videos/Giraffa/ConsistentTeacher.mp4" type="video/mp4">
-    Consistent-Teacher
-    </video>
+    <br>
+  </div>
+</section>
 
-    <video width="320" height="240" controls>
-      <source src="static/images/videos/Polar_bear/MeanTeacher.mp4" type="video/mp4">
-    Mean-Teacher
-    </video>
-    <video width="320" height="240" controls>
-      <source src="static/images/videos/Polar_bear/ConsistentTeacher.mp4" type="video/mp4">
-    Consistent-Teacher
-    </video>
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3">Results</h2>
+    <!-- Concurrent Work. -->
 
-    <video width="320" height="240" controls>
-      <source src="static/images/videos/Zebra/MeanTeacher.mp4" type="video/mp4">
-    Mean-Teacher
-    </video>
-    <video width="320" height="240" controls>
-      <source src="static/images/videos/Zebra/ConsistentTeacher.mp4" type="video/mp4">
-    Consistent-Teacher
-    </video>
+    Our work address inconsistency in the SSOD. Here are some sample detection results at different timestep of during training
+
+    <p align="center"><b style="color:red;">Red</b>: False Positive; 
+      <b style="color:Blue;">Blue</b>: True Postive; 
+      <b style="color:green;">Green</b>: Ground-truth</p>
+    <table style="margin-left:auto;margin-right:auto;text-align: center;height: 250px;width: 700px">
+      <tr>
+        <td>Mean-Teacher</td>
+        <td>Consistent-Teacher</td>
+      </tr>
+      <tr>
+        <td><img src="static/images/videos/Giraffa/MeanTeacher.gif" alt="Computer man" style="width:320px;height:240px;"></td>
+        <td><img src="static/images/videos/Giraffa/ConsistentTeacher.gif" alt="Computer man" style="width:320px;height:240px;"></td>
+      </tr>
+      <tr>
+        <td><img src="static/images/videos/Zebra/MeanTeacher.gif" alt="Computer man" style="width:320px;height:240px;"></td>
+        <td><img src="static/images/videos/Zebra/ConsistentTeacher.gif" alt="Computer man" style="width:320px;height:240px;"></td>
+      </tr>
+      
+      <tr>
+        <td><img src="static/images/videos/Polar_bear/MeanTeacher.gif" alt="Computer man" style="width:320px;height:240px;"></td>
+        <td><img src="static/images/videos/Polar_bear/ConsistentTeacher.gif" alt="Computer man" style="width:320px;height:240px;"></td>
+      </tr>
+    </table>
+    <p align="center">We also plot the different situtations caused by the inconsistency, and how we address them.</p>
+    <p align="center"><b style="color:red;">Red</b>: False Positive; 
+      <b style="color:Blue;">Blue</b>: True Postive; 
+      <b style="color:Orange;">Orange</b>: Ground-truth</p>
+    <img src="static/images/compare1.jpg" alt="Computer man" style="display: block;margin-left:auto;margin-right:auto;width:800px">
 
   </div>
 </section>
@@ -288,11 +302,11 @@
 
 
 
-<section class="section">
-  <div class="container is-max-desktop">
+<!-- <section class="section">
+  <div class="container is-max-desktop"> -->
 
     <!-- Concurrent Work. -->
-    <div class="columns is-centered">
+    <!-- <div class="columns is-centered">
       <div class="column is-full-width">
         <h2 class="title is-3">Related Resource</h2>
 
@@ -319,11 +333,11 @@
           
         </div>
       </div>
-    </div>
+    </div> -->
     <!--/ Concurrent Work. -->
 
-  </div>
-</section>
+  <!-- </div>
+</section> -->
 
 
 <section class="section" id="BibTeX">
