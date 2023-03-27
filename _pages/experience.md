@@ -77,10 +77,10 @@ I got my master's degree in Electrical and Computer Engineering from [University
 * NeurIPS 2022 🔥[Top Reviewer](https://nips.cc/Conferences/2022/ProgramCommittee)🔥.
 * Conference reviewer for 
   - CVPR 2021, 2022, 2023
-  - NeurIPS 2022
+  - NeurIPS 2022， 2023
   - ICML 2022, 2023
   - IJCAI 2021, 2022
-  - ICCV 2021
+  - ICCV 2021， 2023
   - ECCV 2022
   - ICASSP 2020, 2022
 
