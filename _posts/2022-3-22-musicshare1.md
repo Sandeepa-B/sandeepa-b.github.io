@@ -26,4 +26,4 @@ No matter what, you must live on,
 And find the strength to carry on.
 But through it all, we must endure,
 
-<iframe width="1280" height="720" src="//player.bilibili.com/player.html?aid=43158065&bvid=BV1ib411S7Z5&cid=75667460&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="1280" height="720" src="//player.bilibili.com/player.html?aid=43158065&bvid=BV1ib411S7Z5&cid=75667460&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
