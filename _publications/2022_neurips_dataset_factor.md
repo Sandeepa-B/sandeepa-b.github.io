@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2022_neurips_dataset_factor
 date: 2022-11-3
 citation: Songhua Liu, Kai Wang, <u>Xingyi Yang</u>, Jingwen Ye, Xinchao Wang
-venue: 'Neural Information Processing Systems (NeurIPS)'
+venue: 'Neural Information Processing Systems <b>(NeurIPS)</b>'
 ---
 
 

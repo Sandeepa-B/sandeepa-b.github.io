@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2022_neurips_dery
 date: 2022-11-3
 citation:  <u>Xingyi Yang</u>, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang
-venue: 'Neural Information Processing Systems (NeurIPS)'
+venue: 'Neural Information Processing Systems <b>(NeurIPS)</b>'
 ---
 
 
