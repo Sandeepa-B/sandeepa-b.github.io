@@ -61,6 +61,8 @@ I got my master's degree in Electrical and Computer Engineering from [University
 ## Award Selected
 
 * National University of Singapore, Graduate Research Scholarship
+* CVPR 2023 Travel Award.
+* NeurIPS 2022 🔥[Top Reviewer](https://nips.cc/Conferences/2022/ProgramCommittee)🔥.
 * 12th place (Defence) on IJCAI-19 Alibaba Adversrial Vision Challenge
 * 3nd place on Alibaba AI Security Program
 * 2018 MCM/ICM Meritorious Winner Prize
@@ -74,7 +76,7 @@ I got my master's degree in Electrical and Computer Engineering from [University
 ## Academic Service
 
 * Co-organizer for NeurIPS 2020 workshop “Self-Supervised Learning – Theory and Practice”, serving as Workflow Chair.
-* NeurIPS 2022 🔥[Top Reviewer](https://nips.cc/Conferences/2022/ProgramCommittee)🔥.
+* Invited Talk on "The Future of 3D Vision in the Era of LLMs", by VALSE.
 * Conference reviewer for 
   - CVPR 2021, 2022, 2023
   - NeurIPS 2022， 2023
