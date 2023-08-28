@@ -81,16 +81,19 @@ I got my master's degree in Electrical and Computer Engineering from [University
   - CVPR 2021, 2022, 2023
   - NeurIPS 2022， 2023
   - ICML 2022, 2023
-  - IJCAI 2021, 2022
+  - ICLR 2024
   - ICCV 2021， 2023
   - ECCV 2022
+  - IJCAI 2021, 2022
+  - AAAI 2024
   - ICASSP 2020, 2022
 
   
 * Journal reviewer for 
+  - IEEE Transactions on Image Processing (TIP)
+  - Pattern Recognition (PR)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - Journal of Biomedical and Health Informatics (JBHI)
-  - Pattern Recognition (PR)
   - Expert Systems With Applications (ESWA)
   - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
   
