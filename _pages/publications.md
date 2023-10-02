@@ -8,7 +8,7 @@ author_profile: true
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 
-|2023| Ying, Ziyu, Sandeepa Bhuyan, Yan Kang, Yingtian Zhang, Mahmut T. Kandemir, and Chita R. Das. *[EdgePC: Efficient Deep Learning Analytics for Point Clouds on Edge Devices](https://dl.acm.org/doi/10.1145/3579371.3589113)*, **ISCA**, [paper](https://dl.acm.org/doi/10.1145/3579371.3589113)|
+|2023| Ying, Ziyu, Sandeepa Bhuyan, Yan Kang, Yingtian Zhang, Mahmut T. Kandemir, and Chita R. Das. *[EdgePC: Efficient Deep Learning Analytics for Point Clouds on Edge Devices](https://dl.acm.org/doi/10.1145/3579371.3589113)*, **ISCA**.|
 |-|-|
 |2022| Ying, Ziyu, Shulin Zhao, Sandeepa Bhuyan, Cyan Subhra Mishra, Mahmut T. Kandemir, and Chita R. Das. *Pushing Point Cloud Compression to the Edge*, **MICRO**, [paper](https://ieeexplore.ieee.org/document/9923794)|
 |2022| Bhuyan, Sandeepa, Shulin Zhao, Ziyu Ying, Mahmut T. Kandemir, and Chita R. Das. *End-to-end Characterization of Game Streaming Applications on Mobile Platforms*, **SIGMETRICS**, [paper](https://dl.acm.org/doi/10.1145/3508030)|
