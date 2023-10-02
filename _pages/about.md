@@ -14,7 +14,7 @@ My research primarily focuses on exploring HW-SW co-design solutions for address
 
 During my PhD, I have worked on performance and energy optimizations for mobile SoCs, specifically for interactive applications like video game streaming. Apart from this, I was also involved in developing the Gemdroid simulation platforms for exploring the design space of mobile SoCs.
 
-I also have hand-on experience in other domains such as compiler and architecture-driven optimizations while working as an intern at AMD Research in Spring 2022, where I worked on accelerating the multi-dimensional tensor operations through efficient code generation using AMD Optimized C/C++ Compiler (AOCC).
+I also have hands-on experience in other domains such as compiler and architecture-driven optimizations while working as an intern at AMD Research in Spring 2022, where I worked on accelerating the multi-dimensional tensor operations through efficient code generation using AMD Optimized C/C++ Compiler (AOCC).
 
 Prior to joining Penn State, I did my Bachelors in Electronics and Instrumentation Engineering at [NIT Rourkela, India](https://www.nitrkl.ac.in/) and later worked in Ericsson India Global Services from Sep'2013 to Jun'2016. 
 
