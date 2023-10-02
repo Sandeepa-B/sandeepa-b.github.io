@@ -9,6 +9,7 @@ author_profile: true
 
 
 |2023| Ying, Ziyu, Sandeepa Bhuyan, Yan Kang, Yingtian Zhang, Mahmut T. Kandemir, and Chita R. Das*, **ISCA**, [paper](https://dl.acm.org/doi/10.1145/3579371.3589113)|
+|-|-|
 |2022| Ying, Ziyu, Shulin Zhao, Sandeepa Bhuyan, Cyan Subhra Mishra, Mahmut T. Kandemir, and Chita R. Das. *Pushing Point Cloud Compression to the Edge*, **MICRO**, [paper](https://ieeexplore.ieee.org/document/9923794)|
 |2022| Bhuyan, Sandeepa, Shulin Zhao, Ziyu Ying, Mahmut T. Kandemir, and Chita R. Das. *End-to-end Characterization of Game Streaming Applications on Mobile Platforms*, **SIGMETRICS**, [paper](https://dl.acm.org/doi/10.1145/3508030)|
 |2022| Ying, Ziyu, Shulin Zhao, Haibo Zhang, Cyan Subhra Mishra, Sandeepa Bhuyan, Mahmut T. Kandemir, Anand Sivasubramaniam, and Chita R. Das. *Exploiting Frame Similarity for Efficient Inference on Edge Devices*, **ICDCS**, [paper](https://ieeexplore.ieee.org/document/9912209)|
