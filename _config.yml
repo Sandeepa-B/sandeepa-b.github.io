@@ -81,8 +81,10 @@ analytics:
 author:
   name             : "Sandeepa Bhuyan"
   avatar           : "me2022.jpg"
-  bio              : "PhD Candidate, Computer Science and Engineering, Penn State."
-  bio2             : "SoC Architecture, Accelerators, Energy-efficient Mobile/XR/IoT platforms."
+  bio              : "PhD Candidate"
+  bio1             : "Computer Science and Engineering"
+  bio2             : "Penn State"
+  bio3             : "SoC Architecture, Accelerators, Energy-efficient Mobile/XR/IoT platforms."
   bio4             : "she|her"
   location         : "State College USA"
   employer         :
