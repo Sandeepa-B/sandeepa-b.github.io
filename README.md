@@ -2,7 +2,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under
 the MIT License. See LICENSE.md. Original [README.md](https://github.com/academicpages/academicpages.github.io#readme)
 
-## Useful links for changes
+<!--## Useful links for changes
 
 Content
 
@@ -20,3 +20,5 @@ Layout and settings
 - [Header navigation](https://github.com/milankl/milankl.github.io/blob/main/_data/navigation.yml)
 - [Footer](https://github.com/milankl/milankl.github.io/blob/main/_includes/footer/custom.html)
 - [Fonts and colours](https://github.com/milankl/milankl.github.io/blob/main/_sass/_variables.scss)
+
+-->
