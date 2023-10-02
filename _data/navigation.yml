@@ -6,14 +6,9 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /presentations/    
-
-  - title: "Media and outreach"
-    url: /media_coverage/    
+  - title: "Experience"
+    url: /experience/       
     
   - title: "CV"
     url: /cv/
     
-  - title: "Videos"
-    url: /video/
