@@ -87,11 +87,14 @@ author:
   location         : "State College USA"
   employer         :
   pubmed           : 
-  researchgate     : "https://www.researchgate.net/profile/Sandeepa-Bhuyan"
   googlescholar    : "https://scholar.google.com/citations?user=fhxv8ykAAAAJ&hl=en"
   dblp             : "https://dblp.org/pid/252/1368.html"
   email            : "sandeepa at psu dot edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Sandeepa-Bhuyan"
+  links:
+    - label: "DBLP"
+      icon: "fas fa-fw fa-dblp-square"
+      url: "https://dblp.org/pid/252/1368.html"
   uri              :
   bitbucket        :
   codepen          :
