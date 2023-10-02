@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there. I'm Sandeepa. I'm a final year PhD candidate in the [High Performance Computing Lab](https://www.cse.psu.edu/hpcl/index.html) at [Penn State](https://www.psu.edu/). I am co-advised by [Prof. Chita Das](https://www.cse.psu.edu/hpcl/das.html) and [Prof. Mahmut Kandemir](https://www.cse.psu.edu/hpcl/kandemir/). 
+Hi there. I am Sandeepa. I am a final year PhD candidate in the [High Performance Computing Lab](https://www.cse.psu.edu/hpcl/index.html) at [Penn State](https://www.psu.edu/). I am co-advised by [Prof. Chita Das](https://www.cse.psu.edu/hpcl/das.html) and [Prof. Mahmut Kandemir](https://www.cse.psu.edu/hpcl/kandemir/). 
 
 My research primarily focuses on exploring HW-SW co-design solutions for addressing challenges in emerging applications. 
 
