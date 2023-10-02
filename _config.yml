@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-GB"
-title                    : "milaηk.de"
+locale                   : "en-US"
+title                    : "Sandeepa's Homepage"
 title_separator          : "-"
-name                     : &name "Milan Klöwer"
-description              : &description "PhD MSc, Climate Scientist"
+name                     : &name "Sandeepa Bhuyan"
+description              : &description "PhD Candidate, Computer Science and Engineering"
 url                      : https://milank.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "milankl/milankl.github.io"
