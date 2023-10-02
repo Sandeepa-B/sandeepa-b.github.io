@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sandeepa's Homepage"
+title                    : 
 title_separator          : "-"
 name                     : &name "Sandeepa Bhuyan"
 description              : &description "PhD Candidate, Computer Science and Engineering"
