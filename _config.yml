@@ -11,9 +11,9 @@ title                    : "Sandeepa's Homepage"
 title_separator          : "-"
 name                     : &name "Sandeepa Bhuyan"
 description              : &description "PhD Candidate, Computer Science and Engineering"
-url                      : https://milank.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sandeepa-b.github.io/sandeepabhuyan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "milankl/milankl.github.io"
+repository               : "Sandeepa-B/sandeepabhuyan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,17 +79,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Milan Klöwer"
+  name             : "Sandeepa Bhuyan"
   avatar           : "me2022.jpg"
-  bio              : "Climate scientist at MIT, PhD from Oxford, previously: GEOMAR Kiel, UNIS Svalbard, IUEM Brest."
-  bio2             : "Climate computing, information theory, predictability, climate change, aviation."
-  bio3             : "#JuliaLang open-source developer, vegan, low CO₂, bicycles and co-op living, no borders, free education."
-  bio4             : "*354ppm. he|him"
-  location         : "Boston USA"
+  bio              : "PhD Candidate, Computer Science and Engineering, Penn State."
+  bio2             : "SoC Architecture, Accelerators, Energy-efficient Mobile/XR/IoT platforms."
+  bio4             : "she|her"
+  location         : "State College USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=dCq79A4AAAAJ"
-  email            : "milank at mit dot edu"
+  researchgate     : "https://www.researchgate.net/profile/Sandeepa-Bhuyan"
+  googlescholar    : "https://scholar.google.com/citations?user=fhxv8ykAAAAJ&hl=en"
+  dblp             : "https://dblp.org/pid/252/1368.html"
+  email            : "sandeepa at psu dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "milankl"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-3920-4356"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "milankloewer"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
