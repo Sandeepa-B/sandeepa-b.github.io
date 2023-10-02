@@ -11,7 +11,7 @@ title                    :
 title_separator          : ""
 name                     : &name "Sandeepa Bhuyan"
 description              : &description "PhD Candidate, Computer Science and Engineering"
-url                      : https://sandeepa-b.github.io/sandeepabhuyan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sandeepabhuyan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sandeepa-B/sandeepabhuyan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
